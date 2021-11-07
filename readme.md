@@ -6,6 +6,7 @@ Laravel MAIL SMTP DOC For gmail,outlook,zoho.
 
 <hr/>
 - For Gmail Use those line to your .env file
+
     ```
     MAIL_DRIVER=smtp
     MAIL_HOST=smtp.gmail.com
@@ -15,6 +16,7 @@ Laravel MAIL SMTP DOC For gmail,outlook,zoho.
     MAIL_ENCRYPTION=ssl
     ```
 - For outlook Use those line to your .env file
+
     ```
     MAIL_DRIVER=smtp
     MAIL_HOST=smtp-mail.outlook.com
@@ -25,6 +27,7 @@ Laravel MAIL SMTP DOC For gmail,outlook,zoho.
     ```
 
 - For outlook Use those line to your .env file
+
   ```
   MAIL_DRIVER=smtp
   MAIL_HOST=smtp.zoho.com
