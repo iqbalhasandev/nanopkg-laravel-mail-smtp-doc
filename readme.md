@@ -18,6 +18,7 @@ Laravel MAIL SMTP DOC For gmail,outlook,zoho.
    - For outlook Use those line to your .env file
 
         ```
+        
         MAIL_DRIVER=smtp
         MAIL_HOST=smtp-mail.outlook.com
         MAIL_PORT=587
