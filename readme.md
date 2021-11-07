@@ -5,7 +5,8 @@ Laravel MAIL SMTP DOC For gmail,outlook,zoho.
 ## Doc:
 
 <hr/>
-    - For Gmail Use those line to your .env file
+
+   - For Gmail Use those line to your .env file
 
         ```
         MAIL_DRIVER=smtp
