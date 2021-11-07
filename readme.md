@@ -5,37 +5,37 @@ Laravel MAIL SMTP DOC For gmail,outlook,zoho.
 ## Doc:
 
 <hr/>
-- For Gmail Use those line to your .env file
+    - For Gmail Use those line to your .env file
 
-    ```
-    MAIL_DRIVER=smtp
-    MAIL_HOST=smtp.gmail.com
-    MAIL_PORT=465
-    MAIL_USERNAME=MyGoogleAccount
-    MAIL_PASSWORD=MyGooglePassword
-    MAIL_ENCRYPTION=ssl
-    ```
-- For outlook Use those line to your .env file
+        ```
+        MAIL_DRIVER=smtp
+        MAIL_HOST=smtp.gmail.com
+        MAIL_PORT=465
+        MAIL_USERNAME=MyGoogleAccount
+        MAIL_PASSWORD=MyGooglePassword
+        MAIL_ENCRYPTION=ssl
+        ```
+   - For outlook Use those line to your .env file
 
-    ```
-    MAIL_DRIVER=smtp
-    MAIL_HOST=smtp-mail.outlook.com
-    MAIL_PORT=587
-    MAIL_USERNAME=MyOutlookAccount
-    MAIL_PASSWORD=MyOutlookPassword
-    MAIL_ENCRYPTION=tls
-    ```
+        ```
+        MAIL_DRIVER=smtp
+        MAIL_HOST=smtp-mail.outlook.com
+        MAIL_PORT=587
+        MAIL_USERNAME=MyOutlookAccount
+        MAIL_PASSWORD=MyOutlookPassword
+        MAIL_ENCRYPTION=tls
+        ```
 
-- For outlook Use those line to your .env file
+   - For outlook Use those line to your .env file
 
-  ```
-  MAIL_DRIVER=smtp
-  MAIL_HOST=smtp.zoho.com
-  MAIL_PORT=465
-  MAIL_USERNAME=MyZohoEmail
-  MAIL_PASSWORD=MyZohoPassword
-  MAIL_ENCRYPTION=ssl
-  ```
+      ```
+      MAIL_DRIVER=smtp
+      MAIL_HOST=smtp.zoho.com
+      MAIL_PORT=465
+      MAIL_USERNAME=MyZohoEmail
+      MAIL_PASSWORD=MyZohoPassword
+      MAIL_ENCRYPTION=ssl
+      ```
 
 ## <a href="https://iqbalhasan.dev" target="_blank">iqbalhasan.dev</a> Sponsors
 
